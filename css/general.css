@@ -1,0 +1,9 @@
+.bigLinks{
+	height: 100px;
+	width: 300px;
+	font-size: -webkit-xxx-large;
+}
+
+*{
+	font-family: 'Spinnaker', sans-serif !important;
+}
